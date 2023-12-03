@@ -7,28 +7,22 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+I am a Final year grad in Electrical Engineering with keen interest in developing web applications and contributing to the projects that have positive impact on society,
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in HTML, CSS Javascript, Nodejs, React, etc. 
-
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I have passion for technogonolgy and eagerness to learn new things.
 
 Feel free to connect with me @rik634 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **3** years ago.
+Joined Github **2** years ago.
 
-Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/rik634/rik634/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with HTML, CSS, ReactJS, NodeJS etc.
-- 🚀 &nbsp; I’m currently exploring AWS, ReactJS, Devops etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 🚀 &nbsp; I’m currently interested in exploring AWS, Devops etc.
+- 💬 &nbsp; Ask me anything [here](https://github.com/rik634/rik634/issues/2)! I am happy to help.
 - 📫 &nbsp; Reach me out: riyakotalwar562@gmail.com.
 
 ### My Absolute Favorites:
