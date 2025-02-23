@@ -7,13 +7,13 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 
-I am a Final year grad in Electrical Engineering with keen interest in developing web applications and contributing to the projects that have positive impact on society,
+I am a Software Engineer with keen interest in developing web applications and contributing to the projects that have positive impact on society,
 
 I have passion for technogonolgy and eagerness to learn new things.
 
 Feel free to connect with me @rik634 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **2** years ago.
+Joined Github **4** years ago.
 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/rik634/rik634/master/gifs/coder.gif" />
