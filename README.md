@@ -20,7 +20,7 @@ Joined Github **2** years ago.
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with HTML, CSS, ReactJS, NodeJS etc.
+- 🛠 &nbsp; I’m currently working with Java, Spring Boot, ReactJS, NodeJS etc.
 - 🚀 &nbsp; I’m currently interested in exploring AWS, Devops etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/rik634/rik634/issues/2)! I am happy to help.
 - 📫 &nbsp; Reach me out: riyakotalwar562@gmail.com.
