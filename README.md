@@ -2,7 +2,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-
 I am a Software Engineer with keen interest in developing web applications and contributing to the projects that have positive impact on society,
 
 I have passion for technogonolgy and eagerness to learn new things.
